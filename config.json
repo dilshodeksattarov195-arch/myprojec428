@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricsdecrypt",
+        "uuid": 731452,
+        "checksum": "ccj9v"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
